@@ -33,14 +33,45 @@ My name is Konrad. I am a humanist by education who found passion in testing. Cu
 
 # Tech Skills
 
+⯈ API testing
+
+⯈ Exploratory testing
+
+⯈ Testing web applications
+
+⯈ Close cooperation with the development team
+
+⯈ Agile methodology (Scrum)
+
+⯈ Creativity, conscientiousness and responsibility
+
+⯈ Angelic patience
+
+
 # Courses
+[Java](https://codenga.pl/) ⮜ in progress...
+
+[Python](https://strefakursow.pl/sciezki_kariery/python_developer.html) ⮜ in progress...
+
+[Jira Certification](https://udemy.com/certificate/UC-72d70081-58cf-4677-bd45-91ff4c61a340/) ⮜ Completed !
+
+[LinkedIn SEO Certification](https://www.linkedin.com/in/kstasiakglowno/) ⮜ Completed ! You can see it on my profile
+
 
 # Books
 
+⯈ Radosław Smilgin "Zawód Tester"
+
 # Blogs
+
+[ISTQB in a nutshell](https://tester.milenabednarczyk.pl/)
+
+[One of the largest Polish blogs devoted to knowledge about testing](https://testerzy.pl/)
 
 # Projects
 
+⯈ Google pop-up automated test
+  ⮎ 
 
 
 
