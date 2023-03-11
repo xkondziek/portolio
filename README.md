@@ -2,6 +2,9 @@
 My name is Konrad. I am a humanist by education who found passion in testing. Currently, I have over 2 years in the IT department, and over 9 months in manual test support. My goal is to be a fully automated tester in Java or JS for web applications. I invite you to individual sections in order to get to know me better.
 
 
+# LinkedIn profile:
+[LinkedIn](https://www.linkedin.com/in/kstasiakglowno/)
+
 # Tools
 
 ⯈ **Java for Selenium**  - used Java language to use Selenium suite
