@@ -70,8 +70,12 @@ My name is Konrad. I am a humanist by education who found passion in testing. Cu
 
 # Projects
 
-⯈ Google pop-up automated test
-  ⮎ 
+⯈ **Google pop-up automated test** ⮜
+
+  ⮎ [Automated test in Java Selenium](https://drive.google.com/file/d/1wMCD-skcam7lyVzC6idjwGDJlQsnRD8e/view?usp=sharing)
+  
+  ⮎ [Test Case in Polish](https://docs.google.com/spreadsheets/d/1D5x6LTXU0jGMsd8iSJTfJ_AxHvuA9rsge4-6InSK15s/edit?usp=sharing)
+  
 
 
 
