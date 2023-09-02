@@ -33,7 +33,9 @@ My name is Konrad. I am a humanist by education who found passion in testing. Cu
 
 ⯈ **Graylog** - log management platform for collecting, indexing, and analyzing  data
 
-⯈ **IntelliJ** - my IDE do write tests
+⯈ **IntelliJ** - my IDE do write tests in Java
+
+⯈ **VSCode** - my IDE do write tests in TypeScript
 
 ⯈ **Jing** - Screen capture software
 
