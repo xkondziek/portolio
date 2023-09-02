@@ -1,15 +1,23 @@
 # About me 
-My name is Konrad. I am a humanist by education who found passion in testing. Currently, I have over 2 years in the IT department, and over 9 months in manual test support. My goal is to be a fully automated tester in Java or JS for web applications. I invite you to individual sections in order to get to know me better.
+My name is Konrad. I am a humanist by education who found passion in testing. Currently, I have over 2,5 year in the IT departments, with 9 months as manual tester and also with almost 6 months in automated testing. My goal is to be a fullstack automated tester in Java or JS/TS for web applications. I invite you to individual sections in order to get to know me better. Enjoy your stay :)
 
 
 # LinkedIn profile:
 [LinkedIn](https://www.linkedin.com/in/kstasiakglowno/)
 
-# Tools
+# Tools that I used in projects and currently using some of them:
 
 ⯈ **Java for Selenium**  - used Java language to use Selenium suite
 
 ⯈ **Selenium WebDriver** - Used for test automation 
+
+⯈ **VBSript for test programming** - used this language to create, fix and execute automated test in UFT One
+
+⯈ **UFT One** - automated testing software used with VBSript
+
+⯈ **Octane** - test managment tool to analyse results and defects managment
+
+⯈ **Jenkins** - setting up virutal machines, code review and checking console results
 
 ⯈ **jUnit** - A tool for creating repeatable unit tests
 
@@ -36,9 +44,19 @@ My name is Konrad. I am a humanist by education who found passion in testing. Cu
 
 # Tech Skills
 
+⯈ Manual checking and fixing automated tests
+
+⯈ Executing automated tests
+
+⯈ Code review
+
+⯈ Regression testing
+
 ⯈ API testing
 
 ⯈ Exploratory testing
+
+⯈ Test planning
 
 ⯈ Testing web applications
 
@@ -54,11 +72,15 @@ My name is Konrad. I am a humanist by education who found passion in testing. Cu
 # Courses
 [Java](https://codenga.pl/) ⮜ in progress...
 
-[Python](https://strefakursow.pl/sciezki_kariery/python_developer.html) ⮜ in progress...
+[Python](https://strefakursow.pl/sciezki_kariery/python_developer.html) ⮜ in progress... (Currently paused)
+
+[Playwright Typescript Testing](https://jaktestowac.pl/course/playwright-wprowadzenie) ⮜ in progress...
 
 [Jira Certification](https://udemy.com/certificate/UC-72d70081-58cf-4677-bd45-91ff4c61a340/) ⮜ Completed !
 
 [LinkedIn SEO Certification](https://www.linkedin.com/in/kstasiakglowno/) ⮜ Completed ! You can see it on my profile
+
+[Playwright Typescript Testing](https://jaktestowac.pl/course/playwright-wprowadzenie) ⮜ in progress...
 
 
 # Books
@@ -78,6 +100,8 @@ My name is Konrad. I am a humanist by education who found passion in testing. Cu
   ⮎ [Automated test in Java Selenium](https://drive.google.com/file/d/1wMCD-skcam7lyVzC6idjwGDJlQsnRD8e/view?usp=sharing)
   
   ⮎ [Test Case in Polish](https://docs.google.com/spreadsheets/d/1D5x6LTXU0jGMsd8iSJTfJ_AxHvuA9rsge4-6InSK15s/edit?usp=sharing)
+
+⯈ Creating my own website [BugBegone](bugbegone.pl)
   
 
 
