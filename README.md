@@ -1,6 +1,6 @@
 # About me 
 My name is Konrad. I am a humanist by education who found passion in testing. Currently, I have over 2,5 year in the IT departments, with 9 months as manual tester and also with almost 6 months in automated testing. My goal is to be a fullstack automated tester in Java or JS/TS for web applications. I invite you to individual sections in order to get to know me better. Enjoy your stay :)
-
+⋙ Last update (01.09.2023 - dd.mm.yyyy)
 
 # LinkedIn profile:
 [LinkedIn](https://www.linkedin.com/in/kstasiakglowno/)
