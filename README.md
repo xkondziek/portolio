@@ -104,7 +104,7 @@ My name is Konrad. I am a humanist by education who found passion in testing. Cu
   
   ⮎ [Test Case in Polish](https://docs.google.com/spreadsheets/d/1D5x6LTXU0jGMsd8iSJTfJ_AxHvuA9rsge4-6InSK15s/edit?usp=sharing)
 
-⯈ Creating my own website [BugBegone](bugbegone.pl)
+⯈ Creating my own website [BugBegone](https://bugbegone.pl)
   
 
 
