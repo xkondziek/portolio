@@ -19,6 +19,8 @@ My name is Konrad. I am a humanist by education who found passion in testing. Cu
 
 ⯈ **Jenkins** - setting up virutal machines, code review and checking console results
 
+⯈ **GIT** - to add, commit and push my changes
+
 ⯈ **jUnit** - A tool for creating repeatable unit tests
 
 ⯈ **HTTP** - methods (GET, POST, PUT, DELETE) and responses (100,200,300,400,500)
