@@ -84,7 +84,6 @@ My name is Konrad. I am a humanist by education who found passion in testing. Cu
 
 [LinkedIn SEO Certification](https://www.linkedin.com/in/kstasiakglowno/) ⮜ Completed ! You can see it on my profile
 
-[Playwright Typescript Testing](https://jaktestowac.pl/course/playwright-wprowadzenie) ⮜ in progress...
 
 
 # Books
